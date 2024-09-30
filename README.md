@@ -1,10 +1,10 @@
-###👋 Hi, I’m Hassan-Mef!!
+### 👋 Hi, I’m Hassan-Mef!!
 
-- 👩🏻‍💻 Computer Engineer sharing about my journey and learnings in tech </br>
-- 👀 I’m interested in C++ / HTML  / CSS / Js
-- 🌱 I’m currently learning  NODE.JS   / DSA in C++
-- 💞️ I’m looking to collaborate on Discord Development / Web-development
-- 📫 How to reach me (on Discord Fantum#0141)
+- 👩🏻‍💻 Aspiring Computer Engineer with a passion for front-end and back-end web development <br/>
+- 👀 I’m proficient in React, Next.js, and Discord bot development using Discord.js.
+- 🌱  Currently expanding my knowledge in back-end technologies like MongoDB, and learning game development in C++.
+- 💞️ Open to collaboration on web development, Discord bots, and game development.
+- 📫 Reach me on Discord: Fantum#0141
   
 
 
