@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m Hassan-Mef!
-
-👋 Hi, I’m Hassan-Mef!  
+ 
 🎓 3rd-year Computer Engineering student at ITU | 💻 Passionate Developer  
 
 🚀 I build things across a wide spectrum of technologies—from web apps and game engines to low-level embedded systems.  
