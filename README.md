@@ -9,6 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hassan-Mef&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Mef&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-mef&" alt="hassan-mef" /></p>
 
 
 <!-- ## 💰 You can help me by Donating
