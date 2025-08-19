@@ -8,7 +8,8 @@
 - **Frontend:** React, Tailwind CSS, Material UI  
 - **Backend (learning):** Node.js, Express.js, MongoDB  
 - **Discord Development:** Discord.js bot creation  
-- **Embedded Systems:** STM32 (Black Pill), bare-metal programming (C/C++)  
+- **Embedded Systems:** STM32 (Black Pill),ESP32,
+ bare-metal programming (C/C++)  
 - **Game Dev:** C++ (Raylib, SFML), C# with Godot  
 - **Hardware Design:** Verilog — 5-stage pipelined RISC-V CPU with forwarding
 
