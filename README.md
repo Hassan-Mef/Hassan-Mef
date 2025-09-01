@@ -6,7 +6,7 @@
 
 🧠 **Tech I'm skilled in:**  
 - **Frontend:** React, Tailwind CSS, Material UI  
-- **Backend (learning):** Node.js, Express.js, MongoDB  
+- **Backend (learning):** Express.js, MongoDB , PostgreSQL 
 - **Discord Development:** Discord.js bot creation  
 - **Embedded Systems:** STM32 (Black Pill),ESP32,
  bare-metal programming (C/C++)  
